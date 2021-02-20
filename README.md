@@ -1,5 +1,5 @@
 ### Date created
-Saturday
+Saturday - 10:00 am
 
 ### Project Title
 Replace the Project Title
