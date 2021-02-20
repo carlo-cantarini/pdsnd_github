@@ -12,3 +12,4 @@ The files .csv used are: chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
 Thanks to Udacity course - check the following link: https://www.udacity.com/
+Thanks to my sister who always believe in me - CC
