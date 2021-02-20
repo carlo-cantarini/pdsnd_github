@@ -1,5 +1,5 @@
 ### Date created
-Date of the project: 20/02/2021
+Date of the project: 02/20/2021
 
 ### Project Title
 Bikeshare project
